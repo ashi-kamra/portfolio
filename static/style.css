@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth@96.8&family=Itim&family=Sono:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth@96.8&family=Itim&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sono:wght@200..800&display=swap');
+
+h1, h2, h3 {
+    font-family: "Platypi", serif;
+    
+    text-wrap: wrap;
+}
+
+h1 {
+    font-weight: 650;
+    font-size: 250%;
+}
+
+h2 {
+    font-weight: 610;
+    font-size: 210%;
+}
+
+h3 {
+    font-weight: 550;
+    font-size: 190%;
+}
+
+p, li, nav {
+    font-family: "Sono", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+html {
+    background-color: #9fafff
+}

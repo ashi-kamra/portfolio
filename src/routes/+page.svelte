@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>welcome to ashi's portfolio</h1>
+<h2>welcome to ashi's portfolio</h2>
+<h3>welcome to ashi's portfolio</h3>
+
+<p>
+    testing 1-2-3
+</p>
+
