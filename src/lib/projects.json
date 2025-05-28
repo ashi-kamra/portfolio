@@ -1,14 +1,16 @@
 [
     {
-        "title": "testing",
-        "description": "testing",
-        "year": "20XX",
-        "link": ""
+        "title": "project name",
+        "description": "description 1",
+        "stack": ["tech 1", "tech 1", "tech 1"],
+        "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
+        "link":""
     },
     {
-        "title": "testing 2",
-        "description": "testing 2",
-        "year": "20X2",
-        "link": ""
+        "title": "project name 2",
+        "description": "description 2",
+        "stack": ["tech 2", "tech 2", "tech 2"],
+        "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
+        "link":""
     }
 ]
