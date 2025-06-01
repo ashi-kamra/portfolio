@@ -1,16 +1,37 @@
 [
     {
-        "title": "project name",
+        "title": "Community Safety & Public Sentiment",
         "description": "description 1",
         "stack": ["tech 1", "tech 1", "tech 1"],
         "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
         "link":""
     },
     {
-        "title": "project name 2",
+        "title": "Voice to Vision",
         "description": "description 2",
         "stack": ["tech 2", "tech 2", "tech 2"],
         "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
-        "link":""
-    }
+        "link":"https://v2v-jamaicaplan.ccc-mit.org/"
+    },
+    {
+        "title": "Foreclosures in Boston",
+        "description": "description 2",
+        "stack": ["tech 2", "tech 2", "tech 2"],
+        "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
+        "link":"https://hannahchiou.github.io/hjc-project/#top"
+    },
+    {
+        "title": "Cash Course",
+        "description": "description 2",
+        "stack": ["tech 2", "tech 2", "tech 2"],
+        "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
+        "link":"https://devpost.com/software/cash-course-wnza0h"
+    },
+    {
+        "title": "Twitter Sentiment Analysis Elon Musk",
+        "description": "description 2",
+        "stack": ["tech 2", "tech 2", "tech 2"],
+        "image": "https://png.pngtree.com/element_our/20190530/ourmid/pngtree-white-spot-float-image_1256405.jpg",
+        "link":"https://devpost.com/software/cash-course-wnza0h"
+    },
 ]

@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth@96.8&family=Itim&family=Sono:wght@200..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth@96.8&family=Itim&family=Platypi:ital,wght@0,300..800;1,300..800&family=Sono:wght@200..800&display=swap');
+html {
+    --main: #8195fa;
+    --accent1: #b73a59;
+    --accent2: #0e823d;
+}
 
 h1, h2, h3 {
     font-family: "Platypi", serif;
@@ -29,5 +34,6 @@ p, li, nav {
 }
 
 html {
-    background-color: #9fafff
+    background-color: var(--main)
 }
+
