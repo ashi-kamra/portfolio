@@ -3,20 +3,20 @@
 </script>
 
 <article>
-    <div>
+    <div class="inner-grid">
         <h2> {data.title} </h2>
         <p> {data.description} </p>
         {#each data.stack as s}
             <p>{s}</p>
-        {/each}    
+        {/each} 
     </div>
-    <a href={data.link}><img src={data.image} alt="blank"></a>
-
+    <a href={data.link}><img src={data.image} alt="blank"></a>  
 </article>
 
 <style>
-    article {
+    .inner-grid {
         display: grid;
+        grid-template-columns: repeat(2, 1fr) max-content;
     }
     
 </style>
