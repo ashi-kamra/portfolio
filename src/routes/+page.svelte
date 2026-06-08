@@ -25,17 +25,20 @@
         i'm a budding tech policymaker, studying at the UC Berkeley School of Information.  my goal in life is to ensure novel technologies are built in ways that <mark> amplifies the agency and dignity </mark> of people who need it most. 
         </p>
         <p>
-        as such, i'm most interested in analyzing the <mark> systemic behavior of emerging ai technologies </mark>, and how they impact one's <mark>civil liberties and human rights </mark>.
+        as such, i'm most interested in analyzing the <mark> systemic behavior of emerging ai</mark>, and how they impact one's <mark>civil liberties and human rights.</mark>
         </p>
         <p>    
-        i recently graduated from wellesley college in computer science and economics
+        i grew up in california and recently graduated from wellesley college in computer science and economics.
         </p>
         <p>
         in my free time, i'll be found reading the New Yorker, baking chocolate chip banana bread, or working out!
         </p>
+        <p>
+        you can reach me at <strong id='email'>ashima_kamra@berkeley.edu</strong>
+        </p>
     </div>
     <!-- need to figure out how to utilize media queries -->
-    <img src={pic} alt="photo of me holding a flower" /> 
+    <img src={pic} alt="photo of me in a library" /> 
 </div>
 
 <style>
@@ -44,6 +47,10 @@
         background-color: var(--accent2);
         color: white;
         font-style: bold;
+    }
+
+    #email {
+        color: var(--accent3);
     }
     
     .marquee {

@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Contact Me</title>
+    <title>Resume</title>
 </svelte:head>
 
 <h1>Let's Connect!</h1>

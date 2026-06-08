@@ -2,7 +2,7 @@
     <a href="/" class="logo-link">
         <img src="/logo.svg" alt="logo of colored stars" class="logo">
     </a>
-    <a href="/contact">contact</a>
+    <a href="https://docs.google.com/document/d/1rMh7Jf68BE3TJftG9W7Ie0ACV_0Y2mBAtfRQaXiBMO8/edit?usp=sharing">resume</a>
     <a href="https://github.com/ashi-kamra" target="_blank">github</a>
 </nav>
 <slot />
