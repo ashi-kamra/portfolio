@@ -4,7 +4,7 @@
 
 <h1>Let's Connect!</h1>
     
-<form method="get" action="mailto:ak118@wellesley.edu" enctype="text/plain">
+<form method="get" action="mailto:ashima_kamra@berkeley.edu" enctype="text/plain">
     <label>
         Email:
         <input type="email" name="email"/>

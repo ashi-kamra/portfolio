@@ -1,5 +1,5 @@
 <script>
-    import pic from '$lib/assets/portfolio-pic.jpeg';
+    import pic from '$lib/assets/personal_pic_2.png';
     let text = "hi! i'm ashi.  ";
     let marquee= Array(15).fill(text);
 </script>
@@ -22,10 +22,16 @@
 <div id="personal-description">
     <div id="inner-grid">
         <p>
-        i'm a budding civic technologist, studying computer science and economics at Wellesley College. i believe the best things are made when they are crafted with intention, care, and with the complexity of the human experience in mind. 
+        i'm a budding tech policymaker, studying at the UC Berkeley School of Information.  my goal in life is to ensure novel technologies are built in ways that <mark> amplifies the agency and dignity </mark> of people who need it most. 
+        </p>
+        <p>
+        as such, i'm most interested in analyzing the <mark> systemic behavior of emerging ai technologies </mark>, and how they impact one's <mark>civil liberties and human rights </mark>.
         </p>
         <p>    
-            my goal in life is to build technology that amplifies the agency of people who need it most. 
+        i recently graduated from wellesley college in computer science and economics
+        </p>
+        <p>
+        in my free time, i'll be found reading the New Yorker, baking chocolate chip banana bread, or working out!
         </p>
     </div>
     <!-- need to figure out how to utilize media queries -->
@@ -33,6 +39,12 @@
 </div>
 
 <style>
+
+    mark {
+        background-color: var(--accent2);
+        color: white;
+        font-style: bold;
+    }
     
     .marquee {
         overflow: hidden;
@@ -74,6 +86,7 @@
     }
 
     img {
+        padding-top: 1em;
         height: auto;
         width: 30vw;
     }
