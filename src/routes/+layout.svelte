@@ -1,3 +1,4 @@
+
 <nav>
     <a href="/" class="logo-link">
         <img src="/logo.svg" alt="logo of colored stars" class="logo">
