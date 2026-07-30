@@ -35,4 +35,27 @@
         color: white;
     }
 
+    @media (max-width: 768px) {
+        nav {
+            flex-direction: row;
+            gap: 0.5em;
+        }
+
+        .logo-link {
+            margin-right: 0;
+            margin-bottom: 0.5em;
+        }
+
+        .logo {
+            width: 100px;
+            height: 100px;
+        }
+
+        nav a:not(.logo-link) {
+            padding: 0.75em;
+            margin: 0.5em;
+            font-size: 0.9em;
+        }
+    }
+
 </style>
