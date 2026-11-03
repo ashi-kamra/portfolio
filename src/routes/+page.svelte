@@ -25,7 +25,7 @@
         i'm a budding tech policymaker, studying at the UC Berkeley School of Information.  my goal in life is to ensure novel technologies are built in ways that <mark> amplifies the agency and dignity </mark> of people who need it most. 
         </p>
         <p>
-        as such, i'm most interested in analyzing the <mark> systemic behavior of emerging ai</mark>, and how they impact one's <mark>civil liberties and human rights.</mark>
+        as such, i'm most passionate about analyzing the <mark> systemic behavior of emerging ai in socio-technical settings</mark>, and how they impact one's <mark>civil liberties and human rights.</mark> currently, i'm focused on surveillance technologies and their disproportate use on POC, low-income and refugee populations.
         </p>
         <p>    
         i grew up in california and recently graduated from wellesley college in computer science and economics.
